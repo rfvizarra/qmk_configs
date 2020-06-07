@@ -8,3 +8,5 @@ QMK Configuration files for https://config.qmk.fm/
  * [dz60 keymap (querty) - LAYOUT_60_ansi_split_bs_rshift](./dz60/dz60_rfvizarra.json)
 ## gh60 satan
 * [gh60 satan keymap (querty) - LAYOUT_60_ansi_split_bs_rshift](./gh60_satan/gh60_satan_rfvizarra.json)
+## playkbtw/pk60
+* [pk60 keymap (querty) - LAYOUT_minila](./pk60/pk60_rfvizarra.json)
