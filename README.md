@@ -61,7 +61,7 @@ Flashing instructions
 Plug the USB cable
 Connect GND and RST pins for a bit or press the reset button (if available)
 ```bash
-avrdude -p atmega32u4 -P /dev/ttyACM0 -c avr109 -U crkbd_rev1_rfvizarra.hex
+avrdude -p atmega32u4 -P /dev/ttyACM0 -c avr109 -U crkbd_rev1_crkbd_rfvizarra.hex
 ```
 
 ## Ortho
