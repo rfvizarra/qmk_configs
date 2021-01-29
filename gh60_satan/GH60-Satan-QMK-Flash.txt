@@ -1,0 +1,8 @@
+https://config.qmk.fm/
+
+
+Flash GH60 Satan
+sudo /usr/bin/dfu-programmer atmega32u4 erase
+sudo /usr/bin/dfu-programmer atmega32u4 flash satan_my_satan_keymap.hex
+sudo /usr/bin/dfu-programmer atmega32u4 reset
+
